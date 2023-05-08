@@ -5,7 +5,7 @@ const OneModel = require("../models/myModel");
 //}
 
 const mongoose = require('mongoose');
-const path = require("path")
+const path = require("path");
 const morgan = require("morgan")
 const express = require('express')
 const app = express()
